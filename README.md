@@ -24,4 +24,5 @@ Para ejecutar los ejercicios en este repositorio, necesitarás:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-  (https://github.com/alisonfabiola/EjerciciosPHP.S2/tree/main)
+   
+  [(https://github.com/alisonfabiola/EjerciciosPHP.S2/tree/main)]
