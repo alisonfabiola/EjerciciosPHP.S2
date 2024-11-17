@@ -11,8 +11,7 @@ El repositorio incluye los siguientes ejercicios:
 3. **Ejercicio 3:** Descripción breve del ejercicio 3.
 4. **Ejercicio 4:** Descripción breve del ejercicio 4.
    
-   *(Agrega más ejercicios si los tienes)*
-
+  
 ## Requisitos
 
 Para ejecutar los ejercicios en este repositorio, necesitarás:
@@ -25,4 +24,4 @@ Para ejecutar los ejercicios en este repositorio, necesitarás:
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/alisonfabiola/EjerciciosPHP.S2.git
+  (https://github.com/alisonfabiola/EjerciciosPHP.S2/tree/main)
